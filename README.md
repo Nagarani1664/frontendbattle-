@@ -29,5 +29,12 @@ The challenge required developers to **replicate a given design** and **innovate
 - **Vanilla JavaScript**
 - Fonts: [Google Fonts – Inter & Playfair Display](https://fonts.google.com)
 
+  ## 🤖 AI Tools Used
+
+- ChatGPT (for layout structuring, CSS optimization, and markdown writing)
+- GitHub Copilot (for minor HTML/CSS suggestions)
+
+
+
 
 
