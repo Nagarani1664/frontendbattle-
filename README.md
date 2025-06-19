@@ -43,7 +43,9 @@ cd frontendbattle
 open index1.html (or double-click)
 open index2.html
 
-  ## 🤖 AI Tools Used
+```
+
+##  🤖 AI Tools Used
 
 - ChatGPT (for layout structuring, CSS optimization, and markdown writing)
 - GitHub Copilot (for minor HTML/CSS suggestions)
