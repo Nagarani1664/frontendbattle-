@@ -28,6 +28,20 @@ The challenge required developers to **replicate a given design** and **innovate
 - **CSS3**
 - **Vanilla JavaScript**
 - Fonts: [Google Fonts – Inter & Playfair Display](https://fonts.google.com)
+  
+## 📁 Project Structure
+
+- `index1.html` – Main design page based on the provided UI
+- `index2.html` – Secondary page with guidelines and judging criteria
+- `README.md` – Project details, deployment, and instructions
+  
+## 🛠️ How to Run Locally
+
+```bash
+git clone https://github.com/Nagarani1664/frontendbattle.git
+cd frontendbattle
+open index1.html (or double-click)
+open index2.html
 
   ## 🤖 AI Tools Used
 
